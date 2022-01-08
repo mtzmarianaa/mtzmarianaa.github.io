@@ -35566,15 +35566,19 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-1 {
     margin-top: -77px;
     margin-right: 295px;
-    margin-bottom: 25px;
   }
 }
 @media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 116px;
+  }
+
   .u-header .u-menu-1 {
     margin-top: 128px;
   }
 
   .u-header .u-text-1 {
+    font-size: 1.875rem;
     margin-top: -134px;
     margin-right: 212px;
     margin-bottom: 25px;
