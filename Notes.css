@@ -172,6 +172,12 @@
   padding: 0;
 }
 
+.u-section-2 .u-btn-11 {
+  background-image: none;
+  font-size: 1rem;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 660px;
