@@ -160,7 +160,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 36px auto 0;
+  margin: 36px 22px 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -192,7 +192,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  margin: 36px auto 0;
+  margin: 36px 22px 0;
 }
 
 .u-section-2 .u-btn-5 {
@@ -214,7 +214,7 @@
 }
 
 .u-section-2 .u-text-6 {
-  margin: 36px auto 0;
+  margin: 36px 22px 0;
 }
 
 .u-section-2 .u-btn-7 {
@@ -261,10 +261,15 @@
 }
 
 .u-section-2 .u-text-8 {
-  margin: 36px auto 0;
+  margin: 36px 22px 0;
 }
 
 .u-section-2 .u-btn-14 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-15 {
   background-image: none;
   padding: 0;
 }
