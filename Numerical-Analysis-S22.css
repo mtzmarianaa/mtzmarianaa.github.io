@@ -156,7 +156,7 @@
 }
 
 .u-section-2 .u-text-1 {
-  margin: 49px 48px 0;
+  margin: 49px 49px 0 48px;
 }
 
 .u-section-2 .u-text-2 {
@@ -286,6 +286,10 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-repeater-1 {
     min-height: 698px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 48px;
   }
 
   .u-section-2 .u-text-2 {
