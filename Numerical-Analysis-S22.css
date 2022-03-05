@@ -160,8 +160,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  width: 188px;
-  margin: 36px auto 0;
+  margin: 36px 144px 0 130px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -194,25 +193,29 @@
   padding: 0;
 }
 
-.u-section-2 .u-container-layout-2 {
-  padding: 10px;
-}
-
-.u-section-2 .u-text-3 {
-  margin: 49px auto 0;
-}
-
-.u-section-2 .u-text-4 {
-  width: 255px;
-  margin: 36px auto 0;
-}
-
 .u-section-2 .u-btn-7 {
   background-image: none;
   padding: 0;
 }
 
+.u-section-2 .u-container-layout-2 {
+  padding: 10px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 49px 49px 0 48px;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 36px 144px 0 130px;
+}
+
 .u-section-2 .u-btn-8 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-9 {
   background-image: none;
   padding: 0;
 }
@@ -222,17 +225,11 @@
 }
 
 .u-section-2 .u-text-5 {
-  margin: 49px auto 0;
+  margin: 49px 49px 0 48px;
 }
 
 .u-section-2 .u-text-6 {
-  width: 243px;
-  margin: 36px auto 0;
-}
-
-.u-section-2 .u-btn-9 {
-  background-image: none;
-  padding: 0;
+  margin: 36px 144px 0 130px;
 }
 
 .u-section-2 .u-btn-10 {
@@ -265,25 +262,29 @@
   padding: 0;
 }
 
-.u-section-2 .u-container-layout-4 {
-  padding: 10px;
-}
-
-.u-section-2 .u-text-7 {
-  margin: 49px auto 0;
-}
-
-.u-section-2 .u-text-8 {
-  width: 255px;
-  margin: 36px auto 0;
-}
-
 .u-section-2 .u-btn-16 {
   background-image: none;
   padding: 0;
 }
 
+.u-section-2 .u-container-layout-4 {
+  padding: 10px;
+}
+
+.u-section-2 .u-text-7 {
+  margin: 49px 49px 0 48px;
+}
+
+.u-section-2 .u-text-8 {
+  margin: 36px 144px 0 130px;
+}
+
 .u-section-2 .u-btn-17 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-btn-18 {
   background-image: none;
   padding: 0;
 }
@@ -300,21 +301,40 @@
   .u-section-2 .u-text-2 {
     margin-left: 22px;
     margin-right: 22px;
+    width: 188px;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-4 {
     margin-left: 22px;
     margin-right: 22px;
+    width: 255px;
+  }
+
+  .u-section-2 .u-text-5 {
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-6 {
     margin-left: 22px;
     margin-right: 22px;
+    width: 243px;
+  }
+
+  .u-section-2 .u-text-7 {
+    margin-right: 0;
+    margin-left: 0;
   }
 
   .u-section-2 .u-text-8 {
     margin-left: 22px;
     margin-right: 22px;
+    width: 255px;
   }
 }
 
