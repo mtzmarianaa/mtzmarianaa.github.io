@@ -329,6 +329,11 @@
   padding: 0;
 }
 
+.u-section-2 .u-btn-27 {
+  background-image: none;
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-2 .u-repeater-1 {
     min-height: 698px;
